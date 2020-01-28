@@ -1,0 +1,7 @@
+C:\Users\Don Cremo\Source\Repos\DnDCombatSim\DnDCombatSim\bin\Debug\DnDCombatSim.exe.config
+C:\Users\Don Cremo\Source\Repos\DnDCombatSim\DnDCombatSim\bin\Debug\DnDCombatSim.exe
+C:\Users\Don Cremo\Source\Repos\DnDCombatSim\DnDCombatSim\bin\Debug\DnDCombatSim.pdb
+C:\Users\Don Cremo\Source\Repos\DnDCombatSim\DnDCombatSim\obj\Debug\DnDCombatSim.csprojAssemblyReference.cache
+C:\Users\Don Cremo\Source\Repos\DnDCombatSim\DnDCombatSim\obj\Debug\DnDCombatSim.csproj.CoreCompileInputs.cache
+C:\Users\Don Cremo\Source\Repos\DnDCombatSim\DnDCombatSim\obj\Debug\DnDCombatSim.exe
+C:\Users\Don Cremo\Source\Repos\DnDCombatSim\DnDCombatSim\obj\Debug\DnDCombatSim.pdb
